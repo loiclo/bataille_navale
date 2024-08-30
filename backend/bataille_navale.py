@@ -29,7 +29,7 @@ class Ship():
             self.ship_life_played -= 1
             self.positions_touched.append([x,y])
             
-            print(ship_life_played)
+            #print(ship_life_played)
         
         
 class Player():
